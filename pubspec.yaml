@@ -1,0 +1,34 @@
+name: atm_consultoria
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/cliente1.png
+    - images/cliente2.png
+    - images/logo.png
+    - images/menu_cliente.png
+    - images/menu_contato.png
+    - images/menu_empresa.png
+    - images/menu_servico.png
+    - images/detalhe_empresa.png
+    - images/detalhe_cliente.png
+    - images/detalhe_contato.png
+    - images/detalhe_servico.png
